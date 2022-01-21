@@ -1,8 +1,23 @@
 # Angular 9
 
-<Img scr="src/assets/img/angular.png" width="20px" height="20px" align=center/>
+<div align="center">
+    <img src="src/assets/img/angular.png" width="100" alt="logo" class="logo">
+</div>
+
+<p align="center">
+  <a href="https://circleci.com/gh/angular/workflows/angular/tree/master">
+    <img src="https://img.shields.io/circleci/build/github/angular/angular/master.svg?logo=circleci&logoColor=fff&label=CircleCI" alt="CI status" />
+  </a>&nbsp;
+  <a href="https://www.npmjs.com/@angular/core">
+    <img src="https://img.shields.io/npm/v/@angular/core.svg?logo=npm&logoColor=fff&label=NPM+package&color=limegreen" alt="Angular on npm" />
+  </a>&nbsp;
+</p>
+
+<br>
 
 Esse projeto foi feito através do [Curso de Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) da Cod3r Cursos no YouTube. Foi utilizado o Json-server para desenvolver um backend simples para que pudesse focar no frontend da aplicação.
+
+<br>
 
 ## O que é?
 
