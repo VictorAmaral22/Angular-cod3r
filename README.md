@@ -9,6 +9,13 @@ Esse projeto foi feito através do [Curso de Angular 9](https://www.youtube.com/
 ## Elementos do Angular
 
 ### Componentes
+
+São partes do código que podem ser reutilizadas em outras áreas do módulo. Eles são formados por 3 tipos de arquivos:
+    - home.component.css
+    - home.component.html
+    - home.component.ts
+Eles também podem ser agrupados em um só html com as partes de TypeScript e Css de forma inline
+
 ### Rotas
 ### Observables
 ### Diretivas
