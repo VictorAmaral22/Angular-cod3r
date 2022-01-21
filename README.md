@@ -91,6 +91,7 @@ export class RedDirective {
   }
 }
 ```
+
 ```
 /directive-test.html
 
@@ -106,6 +107,7 @@ export class RedDirective {
 
 - Diretivas de estrutura: Altera o layout adicionando ou removendo elementos do DOM.
 <br>
+
 ```
 /directive-test.html
 
