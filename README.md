@@ -77,6 +77,7 @@ O código ficaria mais ou menos assim:
 
 - Diretivas de atributos: Alteram a aparência e o comportamento de um elemento, componente ou outra diretiva.
 <br>
+
 ```
 /directive-test.ts
 
